@@ -1,8 +1,3 @@
-Super bro 🔥 Ippo **README.md page-la big text box** irukkum la.
-
-Adhula **keela irukkura full content-a copy paste pannu**:
-
-````markdown
 # 📊 Superstore Sales Analysis
 
 A comprehensive data analysis project that explores Superstore sales data using Excel, SQL, Python, Power BI, and Tableau.
